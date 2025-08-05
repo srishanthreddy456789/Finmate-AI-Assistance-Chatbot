@@ -13,9 +13,14 @@ FinServe is an AI-powered chatbot to assist bank users with queries, loan checks
 
 - **Frontend:** Next.js
 - **Backend:** Flask, Python
-- **Database:** SQL
+- **Database:** Elasticsearch
 - **Cloud Services:** Google Cloud (Translate, Voice API)
 
+### FinMate Interface
 
+<img src="image/Interface 1.jpg"/>
+<img src="image/Interface 2.jpg"/>
+<img src="image/Interface 3.jpg"/>
+<img src="image/interface 4.jpg"/>
 
 Explore the project, provide feedback, and contribute to its development!
